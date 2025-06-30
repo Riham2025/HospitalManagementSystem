@@ -64,3 +64,5 @@
   4.Insert Departments Table
 
   ![](image/14.png)
+
+  5.Insert Rooms Table
