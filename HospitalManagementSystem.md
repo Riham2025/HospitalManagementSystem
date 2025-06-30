@@ -43,7 +43,12 @@
 
    10. Users Table
 
-   ![](image/9.png)
+   ![](image/10.png)
 
 
-  Step 2: Insert the Tables (DML)
+  ** Step 2: Insert the Tables (DML)
+
+   1.Patients Table
+
+   ![](image/11.png)
+
