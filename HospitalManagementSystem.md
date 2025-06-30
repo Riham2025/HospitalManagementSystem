@@ -14,3 +14,5 @@
    3. Departments Table
    
    ![](image/3.png)
+
+   4. Appointments Table
