@@ -27,3 +27,7 @@
    6. Rooms Table
 
    ![](image/6.png)
+
+  7. MedicalRecords Table
+
+   ![](image/7.png)
