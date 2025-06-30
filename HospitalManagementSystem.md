@@ -86,6 +86,10 @@
 
   9.Insert Appointments  Table
 
+  ![](image/19.png)
+
+  10.Insert MedicalRecords Table
+
 
 
 
