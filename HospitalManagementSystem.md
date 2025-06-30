@@ -31,3 +31,7 @@
   7. MedicalRecords Table
 
    ![](image/7.png)
+
+   8. Billing Table
+
+   ![](image/8.png)
