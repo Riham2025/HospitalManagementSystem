@@ -93,7 +93,7 @@
   ![](image/20.png)
 
 
-  **  Setp 3  SQL Queries:
+  **  Setp 3  SQL Queries: (DQL) 
 
   --List all patients with their appointments and doctor names
 
@@ -116,9 +116,11 @@
 
   ![](image/25.png)
 
-  ---Get number of appointments per doctor
+  ---Get number of appointments per doctor 
+
+  ![](image/26.png)
 
 
-
+**Phase 4 – Functions & Stored Procedures
 
 
