@@ -180,6 +180,11 @@
  **Phase 5 – Security (DCL)
 
    1.  Create two database roles
+    
+   ![](image/37.png)
+
+  2.  Grant / deny permissions
+   
   
    
   
