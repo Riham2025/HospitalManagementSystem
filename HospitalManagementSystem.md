@@ -10,3 +10,7 @@
    2. Doctors Table
    
    ![](image/2.png) 
+
+   3. Departments Table
+   
+   ![](image/3.png)
