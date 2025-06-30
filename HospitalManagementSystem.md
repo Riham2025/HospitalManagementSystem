@@ -131,7 +131,13 @@
  
  ![](image/28.png)
  
-  3.  STORED PROCEDURE  – Generate an invoice
+3.  STORED PROCEDURE  – Generate an invoice
+ 
+![](image/29.png)
+
+ 4.  STORED PROCEDURE  – Assign a doctor to a department and record their shift
+   
+  
 
 
 
