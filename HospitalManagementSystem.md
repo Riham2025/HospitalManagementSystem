@@ -186,6 +186,14 @@
   2.  Grant / deny permissions
 
   2-A  DoctorUser  → read-only on two tables
+
+   ![](image/38.png)
+
+
+   3.  (Optional) add real database users to the roles
+      – Replace the sample LOGIN names with your own
+  -------------------------------------------------------------*/
+-- Example doctor login / user
    
   
    
