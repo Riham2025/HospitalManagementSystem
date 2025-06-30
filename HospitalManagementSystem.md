@@ -97,6 +97,10 @@
 
   --List all patients with their appointments and doctor names
 
+  ![](image/21.png)
+
+  --List available rooms by type
+
 
 
 
