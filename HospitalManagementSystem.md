@@ -8,3 +8,5 @@
    ![](image/1.png)
 
    2. Doctors Table
+   
+   ![](image/2.png) 
