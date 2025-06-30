@@ -52,3 +52,5 @@
 
    ![](image/11.png)
 
+
+  2. Doctors Table
