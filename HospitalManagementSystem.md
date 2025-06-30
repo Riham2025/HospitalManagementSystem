@@ -105,6 +105,10 @@
 
   --Show billing history of each patient
 
+  ![](image/23.png)
+
+  --Get all admitted patients with room type and admission dates
+
 
 
 
