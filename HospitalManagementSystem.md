@@ -148,6 +148,14 @@
   *** TRIGGER 1
   AFTER INSERT ON Appointments
   → Automatically create a stub record in MedicalRecords
+
+  ![](image/32.png)
+
+
+  TRIGGER 2
+  INSTEAD OF DELETE ON Patients
+  → Block deletion if the patient still has ANY billing rows
+  ![](image/33.png)
   
    
   
