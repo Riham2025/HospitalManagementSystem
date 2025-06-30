@@ -184,6 +184,8 @@
    ![](image/37.png)
 
   2.  Grant / deny permissions
+
+  2-A  DoctorUser  → read-only on two tables
    
   
    
