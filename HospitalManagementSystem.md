@@ -114,6 +114,10 @@
 
   --List doctors with their department names
 
+  ![](image/25.png)
+
+  ---Get number of appointments per doctor
+
 
 
 
