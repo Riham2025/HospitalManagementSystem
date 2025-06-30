@@ -101,6 +101,10 @@
 
   --List available rooms by type
 
+  ![](image/22.png)
+
+  --Show billing history of each patient
+
 
 
 
