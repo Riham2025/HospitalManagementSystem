@@ -1,4 +1,4 @@
-  
+ï»¿  
    ## SQL Database Project:  Hospital Management System
 
     Step 1: Create the Tables (DDL)
@@ -121,21 +121,34 @@
   ![](image/26.png)
 
 
-**Phase 4 – Functions & Stored Procedures
+**Phase 4 â€“ Functions & Stored Procedures
 
-1. SCALAR FUNCTION - calculate a patient’s age from DOB
+1. SCALAR FUNCTION - calculate a patientâ€™s age from DOB
  
 ![](image/27.png)
 
-2.  STORED PROCEDURE  – Admit a patient
+2.  STORED PROCEDURE  â€“ Admit a patient
  
  ![](image/28.png)
  
-3.  STORED PROCEDURE  – Generate an invoice
+3.  STORED PROCEDURE  â€“ Generate an invoice
  
 ![](image/29.png)
 
- 4.  STORED PROCEDURE  – Assign a doctor to a department and record their shift
+ 4.  STORED PROCEDURE  â€“ Assign a doctor to a department and record their shift
+  
+  ![](image/30.png)
+
+
+ << How to test 
+  ![](image/31.png)
+
+
+
+  *** TRIGGER 1
+  AFTER INSERT ON Appointments
+  â†’ Automatically create a stub record in MedicalRecords
+  
    
   
 
