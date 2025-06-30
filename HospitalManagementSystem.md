@@ -123,4 +123,6 @@
 
 **Phase 4 – Functions & Stored Procedures
 
+1. SCALAR FUNCTION - calculate a patient’s age from DOB
+
 
