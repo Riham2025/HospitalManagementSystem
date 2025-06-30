@@ -178,6 +178,8 @@
 
 
  **Phase 5 – Security (DCL)
+
+   1.  Create two database roles
   
    
   
