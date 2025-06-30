@@ -204,6 +204,8 @@
 
 
 **  Views 
+1. Shows upcoming appointments per doctor (future dates only)
+   ![](image/41.png)
   
    
   
