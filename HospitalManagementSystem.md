@@ -156,6 +156,12 @@
   INSTEAD OF DELETE ON Patients
   → Block deletion if the patient still has ANY billing rows
   ![](image/33.png)
+
+
+  TRIGGER 3
+  AFTER UPDATE ON Rooms
+  → Ensure no two *active* patients occupy the same room
+      (counts Admissions where DateOut IS NULL)
   
    
   
