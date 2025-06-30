@@ -6,3 +6,5 @@
     1. Patients Table
 
    ![](image/1.png)
+
+   2. Doctors Table
