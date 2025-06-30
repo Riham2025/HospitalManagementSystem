@@ -90,6 +90,13 @@
 
   10.Insert MedicalRecords Table
 
+  ![](image/20.png)
+
+
+  **  Setp 3  SQL Queries:
+
+  --List all patients with their appointments and doctor names
+
 
 
 
