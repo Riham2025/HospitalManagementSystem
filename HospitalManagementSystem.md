@@ -16,3 +16,5 @@
    ![](image/3.png)
 
    4. Appointments Table
+   
+   ![](image/4.png)
