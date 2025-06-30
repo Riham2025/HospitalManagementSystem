@@ -66,3 +66,7 @@
   ![](image/14.png)
 
   5.Insert Rooms Table
+
+  ![](image/15.png)
+
+  6.Insert Users Table
