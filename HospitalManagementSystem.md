@@ -58,3 +58,9 @@
   ![](image/12.png)
 
   3.Insert Staff Table
+
+  ![](image/13.png)
+
+  4.Insert Departments Table
+
+  ![](image/14.png)
