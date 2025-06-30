@@ -18,3 +18,8 @@
    4. Appointments Table
    
    ![](image/4.png)
+
+   
+   5. Admissions Table
+
+   ![](image/5.png)
