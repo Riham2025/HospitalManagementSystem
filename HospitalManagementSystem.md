@@ -35,3 +35,5 @@
    8. Billing Table
 
    ![](image/8.png)
+
+   9. Staff Table
