@@ -3,7 +3,8 @@
 
     Step 1: Create the Tables (DDL)
 
-    1. Patients Table
+
+   1.Patients Table
 
    ![](image/1.png)
 
@@ -41,3 +42,8 @@
    ![](image/9.png)
 
    10. Users Table
+
+   ![](image/9.png)
+
+
+  Step 2: Insert the Tables (DML)
