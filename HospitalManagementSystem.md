@@ -162,6 +162,10 @@
   AFTER UPDATE ON Rooms
   → Ensure no two *active* patients occupy the same room
       (counts Admissions where DateOut IS NULL)
+      ![](image/34.png)
+
+
+   1. Insert a dummy appointment → should auto-create a medical record */
   
    
   
