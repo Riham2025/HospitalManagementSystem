@@ -23,3 +23,7 @@
    5. Admissions Table
 
    ![](image/5.png)
+
+   6. Rooms Table
+
+   ![](image/6.png)
