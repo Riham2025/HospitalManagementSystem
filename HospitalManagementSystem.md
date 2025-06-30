@@ -128,7 +128,10 @@
 ![](image/27.png)
 
 2.  STORED PROCEDURE  – Admit a patient
-
+ 
+ ![](image/28.png)
+ 
+  3.  STORED PROCEDURE  – Generate an invoice
 
 
 
