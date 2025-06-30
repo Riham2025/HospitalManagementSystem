@@ -109,6 +109,11 @@
 
   --Get all admitted patients with room type and admission dates
 
+  ![](image/24.png)
+
+
+  --List doctors with their department names
+
 
 
 
