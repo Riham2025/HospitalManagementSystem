@@ -155,6 +155,7 @@
   TRIGGER 2
   INSTEAD OF DELETE ON Patients
   → Block deletion if the patient still has ANY billing rows
+
   ![](image/33.png)
 
 
@@ -162,10 +163,16 @@
   AFTER UPDATE ON Rooms
   → Ensure no two *active* patients occupy the same room
       (counts Admissions where DateOut IS NULL)
-      ![](image/34.png)
+
+   ![](image/34.png)
 
 
    1. Insert a dummy appointment → should auto-create a medical record */
+    
+   ![](image/35.png) 
+
+   /* 2. Simulate two open admissions in the same room to test occupancy rule */
+ 
   
    
   
