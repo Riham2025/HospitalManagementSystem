@@ -214,4 +214,7 @@
 
 ![](image/42.png)
 
+3. Shows number of doctors and patients per department
+ 
+   ![](image/43.png)
 
