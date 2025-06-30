@@ -81,6 +81,11 @@
 
   8.Insert Billing Table
 
+  ![](image/18.png)
+
+
+  9.Insert Appointments  Table
+
 
 
 
