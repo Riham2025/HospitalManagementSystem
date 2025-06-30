@@ -48,9 +48,13 @@
 
   ** Step 2: Insert the Tables (DML)
 
-   1.Patients Table
+   1.Insert Patients Table
 
    ![](image/11.png)
 
 
-  2. Doctors Table
+  2.Insert Doctors Table
+  
+  ![](image/12.png)
+
+  3.Insert Staff Table
