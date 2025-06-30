@@ -70,3 +70,13 @@
   ![](image/15.png)
 
   6.Insert Users Table
+
+  ![](image/16.png)
+
+
+  7.Insert  Admissions  Table
+
+  ![](image/17.png)
+
+
+
