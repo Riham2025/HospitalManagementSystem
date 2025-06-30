@@ -205,10 +205,13 @@
 
 **  Views 
 1. Shows upcoming appointments per doctor (future dates only)
+1. 
    ![](image/41.png)
   
    
   
+2. Patient details + latest appointment + diagnosis if exists
 
+![](image/42.png)
 
 
