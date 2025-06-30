@@ -194,7 +194,11 @@
       – Replace the sample LOGIN names with your own
   -------------------------------------------------------------*/
 -- Example doctor login / user
+    
+ ![](image/39.png)
    
+
+ Transactions (TCL) 
   
    
   
