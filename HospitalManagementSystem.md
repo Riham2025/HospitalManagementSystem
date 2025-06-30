@@ -172,7 +172,12 @@
    ![](image/35.png) 
 
    /* 2. Simulate two open admissions in the same room to test occupancy rule */
+
+   ![](image/36.png)
  
+
+
+ **Phase 5 – Security (DCL)
   
    
   
